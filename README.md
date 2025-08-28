@@ -4,7 +4,7 @@ This list collects papers that deal with mathematical properties and models conn
 
 ⚠️ This list is under construction. For suggestions and addtions please open a pull-request.
 
-**[Attention's forward pass and Frank-Wolfe](https://arxiv.org/abs/2508.09628) - Albert Alcalde, Borjan Geshkovski, Domènec Ruiz-Balet
+**[Attention's forward pass and Frank-Wolfe](https://arxiv.org/abs/2508.09628)** - Albert Alcalde, Borjan Geshkovski, Domènec Ruiz-Balet
 
 <details>
 <summary>BibTeX</summary>
@@ -37,7 +37,7 @@ This list collects papers that deal with mathematical properties and models conn
 ```
 </details>
 
-** [Analysis of mean-field models arising from self-attention dynamics in transformer architectures with layer normalization](https://arxiv.org/abs/2501.03096) - Martin Burger, Samira Kabri, Yury Korolev, Tim Roith, Lukas Weigand
+**[Analysis of mean-field models arising from self-attention dynamics in transformer architectures with layer normalization](https://arxiv.org/abs/2501.03096)** - Martin Burger, Samira Kabri, Yury Korolev, Tim Roith, Lukas Weigand
 
 <details>
 <summary>BibTeX</summary>
