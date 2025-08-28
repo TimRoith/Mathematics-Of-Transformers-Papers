@@ -2,7 +2,7 @@
 
 This list collects papers that deal with mathematical properties and models connected to the transformer architecture.
 
-⚠️ This list is under construction. For suggestions and addtions please open a pull-request.
+⚠️ This list is under construction. For suggestions and additions please open a pull-request.
 
 
 ## Paper ordered by year
