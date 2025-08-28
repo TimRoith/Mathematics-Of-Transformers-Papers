@@ -4,6 +4,9 @@ This list collects papers that deal with mathematical properties and models conn
 
 ⚠️ This list is under construction. For suggestions and addtions please open a pull-request.
 
+
+## Paper ordered by year
+
 **[Attention's forward pass and Frank-Wolfe](https://arxiv.org/abs/2508.09628)** - Albert Alcalde, Borjan Geshkovski, Domènec Ruiz-Balet
 
 <details>
