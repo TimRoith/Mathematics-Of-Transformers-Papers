@@ -5,7 +5,21 @@ This list collects papers that deal with mathematical properties and models conn
 ⚠️ This list is under construction. For suggestions and additions please open a pull-request.
 
 
-## Paper ordered by year
+## Papers ordered by year
+
+**[LOCALMAX DYNAMICS FOR ATTENTION IN TRANSFORMERS AND ITS ASYMPTOTIC BEHAVIOR](https://arxiv.org/pdf/2509.15958)** - HENRI CIMETIÈRE, MARIA TERESA CHIRI, AND BAHMAN GHARESIFARD
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@article{cimetiere2025localmax,
+  title={Localmax dynamics for attention in transformers and its asymptotic behavior},
+  author={Cimeti{\`e}re, Henri and Chiri, Maria Teresa and Gharesifard, Bahman},
+  journal={arXiv preprint arXiv:2509.15958},
+  year={2025}
+}
+```
 
 **[Attention's forward pass and Frank-Wolfe](https://arxiv.org/abs/2508.09628)** - Albert Alcalde, Borjan Geshkovski, Domènec Ruiz-Balet
 
