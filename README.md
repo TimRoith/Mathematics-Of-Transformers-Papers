@@ -20,6 +20,7 @@ This list collects papers that deal with mathematical properties and models conn
   year={2025}
 }
 ```
+</details>
 
 **[Attention's forward pass and Frank-Wolfe](https://arxiv.org/abs/2508.09628)** - Albert Alcalde, Borjan Geshkovski, Domènec Ruiz-Balet
 
