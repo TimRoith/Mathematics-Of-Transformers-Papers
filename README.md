@@ -7,6 +7,20 @@ This list collects papers that deal with mathematical properties and models conn
 
 ## Papers ordered by year
 
+**[A multiscale analysis of mean-field transformers in the moderate interaction regime](https://arxiv.org/abs/2509.25040)** - Bruno, Giuseppe and Pasqualotto, Federico and Agazzi, Andrea
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@article{bruno2025multiscale,
+  title={A multiscale analysis of mean-field transformers in the moderate interaction regime},
+  author={Bruno, Giuseppe and Pasqualotto, Federico and Agazzi, Andrea},
+  journal={arXiv preprint arXiv:2509.25040},
+  year={2025}
+}
+```
+</details>
+
 **[LOCALMAX DYNAMICS FOR ATTENTION IN TRANSFORMERS AND ITS ASYMPTOTIC BEHAVIOR](https://arxiv.org/pdf/2509.15958)** - HENRI CIMETIÈRE, MARIA TERESA CHIRI, AND BAHMAN GHARESIFARD
 
 <details>
