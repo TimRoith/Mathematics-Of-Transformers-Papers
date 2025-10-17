@@ -7,6 +7,20 @@ This list collects papers that deal with mathematical properties and models conn
 
 ## Papers ordered by year
 
+**[Transformers through the lens of support-preserving maps between measures](https://arxiv.org/abs/2509.25611)** - Furuya, Takashi and de Hoop, Maarten V and Lassas, Matti
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@article{furuya2025transformers,
+  title={Transformers through the lens of support-preserving maps between measures},
+  author={Furuya, Takashi and de Hoop, Maarten V and Lassas, Matti},
+  journal={arXiv preprint arXiv:2509.25611},
+  year={2025}
+}
+```
+</details>
+
 **[A multiscale analysis of mean-field transformers in the moderate interaction regime](https://arxiv.org/abs/2509.25040)** - Bruno, Giuseppe and Pasqualotto, Federico and Agazzi, Andrea
 <details>
 <summary>BibTeX</summary>
