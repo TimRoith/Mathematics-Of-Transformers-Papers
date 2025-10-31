@@ -7,6 +7,21 @@ This list collects papers that deal with mathematical properties and models conn
 
 ## Papers ordered by year
 
+
+**[On the Structure of Stationary Solutions to McKean-Vlasov Equations with Applications to Noisy Transformers]()** - Krishnakumar Balasubramanian, Sayan Banerjee, Philippe Rigollet
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@article{balasubramanian2025structure,
+  title={On the Structure of Stationary Solutions to McKean-Vlasov Equations with Applications to Noisy Transformers},
+  author={Balasubramanian, Krishnakumar and Banerjee, Sayan and Rigollet, Philippe},
+  journal={arXiv preprint arXiv:2510.20094},
+  year={2025}
+}
+```
+</details>
+
 **[Transformers through the lens of support-preserving maps between measures](https://arxiv.org/abs/2509.25611)** - Furuya, Takashi and de Hoop, Maarten V and Lassas, Matti
 <details>
 <summary>BibTeX</summary>
