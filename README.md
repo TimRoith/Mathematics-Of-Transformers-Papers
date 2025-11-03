@@ -22,6 +22,23 @@ This list collects papers that deal with mathematical properties and models conn
 ```
 </details>
 
+**[Sparse Transformer Architectures via Regularized Wasserstein Proximal Operator with $L_1$ Prior](https://arxiv.org/abs/2510.16356)** - Fuqun Han, Stanley Osher, Wuchen Li
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@misc{han2025sparsetransformerarchitecturesregularized,
+      title={Sparse Transformer Architectures via Regularized Wasserstein Proximal Operator with $L_1$ Prior}, 
+      author={Fuqun Han and Stanley Osher and Wuchen Li},
+      year={2025},
+      eprint={2510.16356},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2510.16356}, 
+}
+```
+</details>
+
 **[Transformers through the lens of support-preserving maps between measures](https://arxiv.org/abs/2509.25611)** - Furuya, Takashi and de Hoop, Maarten V and Lassas, Matti
 <details>
 <summary>BibTeX</summary>
