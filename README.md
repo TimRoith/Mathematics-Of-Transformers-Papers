@@ -82,6 +82,25 @@ This list collects papers that deal with mathematical properties and models conn
 ```
 </details>
 
+**[A Mathematical Explanation of Transformers for Large Language Models and GPTs](https://arxiv.org/abs/2510.03989)** -
+Xue-Cheng Tai, Hao Liu, Lingfeng Li, Raymond H. Chan
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@misc{tai2025mathematicalexplanationtransformerslarge,
+      title={A Mathematical Explanation of Transformers for Large Language Models and GPTs}, 
+      author={Xue-Cheng Tai and Hao Liu and Lingfeng Li and Raymond H. Chan},
+      year={2025},
+      eprint={2510.03989},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2510.03989}, 
+}
+```
+</details>
+
 **[Attention's forward pass and Frank-Wolfe](https://arxiv.org/abs/2508.09628)** - Albert Alcalde, Borjan Geshkovski, Domènec Ruiz-Balet
 
 <details>
