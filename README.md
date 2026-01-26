@@ -7,6 +7,21 @@ This list collects papers that deal with mathematical properties and models conn
 
 ## Papers ordered by year
 
+**[Finite-Time Analysis of Gradient Descent for Shallow Transformers](https://arxiv.org/abs/2601.16514)** - Enes Arda, Semih Cayci, Atilla Eryilmaz
+<details>
+<summary>BibTeX</summary>
+  
+@misc{arda2026finitetimeanalysisgradientdescent,
+      title={Finite-Time Analysis of Gradient Descent for Shallow Transformers}, 
+      author={Enes Arda and Semih Cayci and Atilla Eryilmaz},
+      year={2026},
+      eprint={2601.16514},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2601.16514}, 
+}
+```
+</details>
 
 **[On the Structure of Stationary Solutions to McKean-Vlasov Equations with Applications to Noisy Transformers]()** - Krishnakumar Balasubramanian, Sayan Banerjee, Philippe Rigollet
 <details>
