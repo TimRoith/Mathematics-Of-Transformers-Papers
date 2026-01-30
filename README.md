@@ -7,6 +7,22 @@ This list collects papers that deal with mathematical properties and models conn
 
 ## Papers ordered by year
 
+**[Clustering in Deep Stochastic Transformers](https://arxiv.org/abs/2601.21942)** - Lev Fedorov, Michaël E. Sander, Romuald Elie, Pierre Marion, Mathieu Laurière
+
+<details>
+<summary>BibTeX</summary>
+@misc{fedorov2026clusteringdeepstochastictransformers,
+      title={Clustering in Deep Stochastic Transformers}, 
+      author={Lev Fedorov and Michaël E. Sander and Romuald Elie and Pierre Marion and Mathieu Laurière},
+      year={2026},
+      eprint={2601.21942},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML},
+      url={https://arxiv.org/abs/2601.21942}, 
+}
+```
+</details>
+
 **[Finite-Time Analysis of Gradient Descent for Shallow Transformers](https://arxiv.org/abs/2601.16514)** - Enes Arda, Semih Cayci, Atilla Eryilmaz
 <details>
 <summary>BibTeX</summary>
