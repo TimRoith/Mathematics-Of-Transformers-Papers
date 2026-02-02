@@ -7,6 +7,24 @@ This list collects papers that deal with mathematical properties and models conn
 
 ## Papers ordered by year
 
+**[Perceptrons and localization of attention’s
+mean-field landscape](https://arxiv.org/abs/2601.21366)** - Antonio Álvarez-López, Borjan Geshkovski, Domènec Ruiz-Balet
+
+<details>
+<summary>BibTeX</summary>
+@misc{álvarezlópez2026perceptronslocalizationattentionsmeanfield,
+      title={Perceptrons and localization of attention's mean-field landscape}, 
+      author={Antonio Álvarez-López and Borjan Geshkovski and Domènec Ruiz-Balet},
+      year={2026},
+      eprint={2601.21366},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2601.21366}, 
+}
+```
+</details>
+
+
 **[Clustering in Deep Stochastic Transformers](https://arxiv.org/abs/2601.21942)** - Lev Fedorov, Michaël E. Sander, Romuald Elie, Pierre Marion, Mathieu Laurière
 
 <details>
