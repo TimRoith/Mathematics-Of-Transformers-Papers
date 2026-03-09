@@ -7,11 +7,31 @@ This list collects papers that deal with mathematical properties and models conn
 
 ## Papers ordered by year
 
+**[[Random Quadratic Form on a Sphere: Synchronization by Common Noise]](https://arxiv.org/abs/2603.06187)** - Maximilian Engel, Anna Shalova
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@misc{engel2026randomquadraticformsphere,
+      title={Random Quadratic Form on a Sphere: Synchronization by Common Noise}, 
+      author={Maximilian Engel and Anna Shalova},
+      year={2026},
+      eprint={2603.06187},
+      archivePrefix={arXiv},
+      primaryClass={math.PR},
+      url={https://arxiv.org/abs/2603.06187}, 
+}
+```
+</details>
+
 **[Perceptrons and localization of attention’s
 mean-field landscape](https://arxiv.org/abs/2601.21366)** - Antonio Álvarez-López, Borjan Geshkovski, Domènec Ruiz-Balet
 
 <details>
 <summary>BibTeX</summary>
+
+```bibtex
 @misc{álvarezlópez2026perceptronslocalizationattentionsmeanfield,
       title={Perceptrons and localization of attention's mean-field landscape}, 
       author={Antonio Álvarez-López and Borjan Geshkovski and Domènec Ruiz-Balet},
@@ -29,6 +49,8 @@ mean-field landscape](https://arxiv.org/abs/2601.21366)** - Antonio Álvarez-Ló
 
 <details>
 <summary>BibTeX</summary>
+
+```bibtex
 @misc{fedorov2026clusteringdeepstochastictransformers,
       title={Clustering in Deep Stochastic Transformers}, 
       author={Lev Fedorov and Michaël E. Sander and Romuald Elie and Pierre Marion and Mathieu Laurière},
@@ -44,7 +66,8 @@ mean-field landscape](https://arxiv.org/abs/2601.21366)** - Antonio Álvarez-Ló
 **[Finite-Time Analysis of Gradient Descent for Shallow Transformers](https://arxiv.org/abs/2601.16514)** - Enes Arda, Semih Cayci, Atilla Eryilmaz
 <details>
 <summary>BibTeX</summary>
-  
+
+```bibtex
 @misc{arda2026finitetimeanalysisgradientdescent,
       title={Finite-Time Analysis of Gradient Descent for Shallow Transformers}, 
       author={Enes Arda and Semih Cayci and Atilla Eryilmaz},
