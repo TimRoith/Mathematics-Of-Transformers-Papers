@@ -7,6 +7,24 @@ This list collects papers that deal with mathematical properties and models conn
 
 ## Papers ordered by year
 
+**[[SympFormer: Accelerated attention blocks via Inertial Dynamics on Density Manifolds]](https://arxiv.org/abs/2603.16535)** - Viktor Stein, Wuchen Li, Gabriele Steidl
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@misc{stein2026sympformeracceleratedattentionblocks,
+      title={SympFormer: Accelerated attention blocks via Inertial Dynamics on Density Manifolds}, 
+      author={Viktor Stein and Wuchen Li and Gabriele Steidl},
+      year={2026},
+      eprint={2603.16535},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2603.16535}, 
+}
+```
+</details>
+
 **[[Random Quadratic Form on a Sphere: Synchronization by Common Noise]](https://arxiv.org/abs/2603.06187)** - Maximilian Engel, Anna Shalova
 
 <details>
