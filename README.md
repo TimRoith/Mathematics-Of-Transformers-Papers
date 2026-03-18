@@ -370,7 +370,8 @@ Xue-Cheng Tai, Hao Liu, Lingfeng Li, Raymond H. Chan
 ```
 </details>
 
-**The Asymptotic Behavior of Attention in Transformers** - Abella, {\'A}lvaro Rodr{\'\i}guez and Silvestre, Jo{\~a}o Pedro and Tabuada, Paulo (2024)
+**[The Asymptotic Behavior of Attention in Transformers](https://arxiv.org/abs/2412.02682)** - Álvaro Rodríguez Abella, João Pedro Silvestre, Paulo Tabuada (2024)
+
 <details>
 <summary>BibTeX</summary>
 
