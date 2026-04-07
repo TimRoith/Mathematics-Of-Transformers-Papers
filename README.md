@@ -7,6 +7,24 @@ This list collects papers that deal with mathematical properties and models conn
 
 ## Papers ordered by year
 
+**[https://arxiv.org/abs/2604.01978](https://arxiv.org/abs/2604.01978)** - Hugo Koubbi, Borjan Geshkovski, Philippe Rigollet
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@misc{koubbi2026homogenizedtransformers,
+      title={Homogenized Transformers}, 
+      author={Hugo Koubbi and Borjan Geshkovski and Philippe Rigollet},
+      year={2026},
+      eprint={2604.01978},
+      archivePrefix={arXiv},
+      primaryClass={math.PR},
+      url={https://arxiv.org/abs/2604.01978}, 
+}
+```
+</details>
+
 **[SympFormer: Accelerated attention blocks via Inertial Dynamics on Density Manifolds](https://arxiv.org/abs/2603.16535)** - Viktor Stein, Wuchen Li, Gabriele Steidl
 
 <details>
