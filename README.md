@@ -7,7 +7,7 @@ This list collects papers that deal with mathematical properties and models conn
 
 ## Papers ordered by year
 
-**[https://arxiv.org/abs/2604.01978](https://arxiv.org/abs/2604.01978)** - Hugo Koubbi, Borjan Geshkovski, Philippe Rigollet
+**[Homogenized Transformers](https://arxiv.org/abs/2604.01978)** - Hugo Koubbi, Borjan Geshkovski, Philippe Rigollet
 
 <details>
 <summary>BibTeX</summary>
