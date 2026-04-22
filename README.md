@@ -190,6 +190,21 @@ mean-field landscape](https://arxiv.org/abs/2601.21366)** - Antonio Álvarez-Ló
 ```
 </details>
 
+**[Quantitative clustering in mean-field transformer models](https://arxiv.org/abs/2504.14697)** - Shi Chen, Zhengjiang Lin, Yury Polyanskiy, Philippe Rigollet
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@article{chen2025quantitative,
+  title={Quantitative clustering in mean-field transformer models},
+  author={Chen, Shi and Lin, Zhengjiang and Polyanskiy, Yury and Rigollet, Philippe},
+  journal={arXiv preprint arXiv:2504.14697},
+  year={2025}
+}
+```
+</details>
+
 **[A Mathematical Explanation of Transformers for Large Language Models and GPTs](https://arxiv.org/abs/2510.03989)** -
 Xue-Cheng Tai, Hao Liu, Lingfeng Li, Raymond H. Chan
 
