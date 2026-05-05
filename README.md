@@ -7,6 +7,22 @@ This list collects papers that deal with mathematical properties and models conn
 
 ## Papers ordered by year
 
+**[Multistability of Self-Attention Dynamics in Transformers]([https://arxiv.org/abs/2604.01978](https://arxiv.org/abs/2511.11553))** - Claudio Altafini
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@article{altafini2026multistability,
+  title={Multistability of Self-Attention Dynamics in Transformers},
+  author={Altafini, Claudio},
+  journal={IEEE Transactions on Automatic Control},
+  year={2026},
+  publisher={IEEE}
+}
+```
+</details>
+
 **[Homogenized Transformers](https://arxiv.org/abs/2604.01978)** - Hugo Koubbi, Borjan Geshkovski, Philippe Rigollet
 
 <details>
