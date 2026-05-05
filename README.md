@@ -7,7 +7,7 @@ This list collects papers that deal with mathematical properties and models conn
 
 ## Papers ordered by year
 
-**[Multistability of Self-Attention Dynamics in Transformers]([https://arxiv.org/abs/2604.01978](https://arxiv.org/abs/2511.11553))** - Claudio Altafini
+**[Multistability of Self-Attention Dynamics in Transformers](https://arxiv.org/abs/2604.01978](https://arxiv.org/abs/2511.11553)** - Claudio Altafini
 
 <details>
 <summary>BibTeX</summary>
