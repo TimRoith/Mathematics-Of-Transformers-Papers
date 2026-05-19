@@ -30,6 +30,8 @@ This list collects papers that deal with mathematical properties and models conn
 
 <details>
 <summary>BibTeX</summary>
+
+```bibtex
 @misc{isobe2026traininginducedescapetokenclustering,
       title={Training-Induced Escape from Token Clustering in a Mean-Field Formulation of Transformers}, 
       author={Noboru Isobe and Daisuke Inoue and Masaaki Imaizumi},
