@@ -7,6 +7,39 @@ This list collects papers that deal with mathematical properties and models conn
 
 ## Papers ordered by year
 
+**[Attention-based PCA](https://arxiv.org/abs/2605.18315)** - Rodrigo Maulen-Soto, Claire Boyer
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@misc{maulensoto2026attentionbasedpca,
+      title={Attention-based PCA}, 
+      author={Rodrigo Maulen-Soto and Claire Boyer},
+      year={2026},
+      eprint={2605.18315},
+      archivePrefix={arXiv},
+      primaryClass={math.OC},
+      url={https://arxiv.org/abs/2605.18315}, 
+}
+```
+</details>
+
+**[Spectral Selection in Symmetric Self-Attention Dynamics]([https://arxiv.org/abs/2604.26085)** - Christian Kuehn, Jaeyoung Yoon
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@article{kuehn2026spectral,
+  title={Spectral Selection in Symmetric Self-Attention Dynamics},
+  author={Kuehn, Christian and Yoon, Jaeyoung},
+  journal={arXiv preprint arXiv:2604.26085},
+  year={2026}
+}
+```
+</details>
+
 **[Multistability of Self-Attention Dynamics in Transformers](https://arxiv.org/abs/2511.11553)** - Claudio Altafini
 
 <details>
