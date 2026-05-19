@@ -25,7 +25,24 @@ This list collects papers that deal with mathematical properties and models conn
 ```
 </details>
 
-**[Spectral Selection in Symmetric Self-Attention Dynamics]([https://arxiv.org/abs/2604.26085)** - Christian Kuehn, Jaeyoung Yoon
+**[Training-Induced Escape from Token Clustering in a Mean-Field Formulation of Transformers](https://arxiv.org/pdf/2605.07772)** - Noboru Isobe, Daisuke Inoue, Masaaki Imaizumi
+
+
+<details>
+<summary>BibTeX</summary>
+@misc{isobe2026traininginducedescapetokenclustering,
+      title={Training-Induced Escape from Token Clustering in a Mean-Field Formulation of Transformers}, 
+      author={Noboru Isobe and Daisuke Inoue and Masaaki Imaizumi},
+      year={2026},
+      eprint={2605.07772},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2605.07772}, 
+}
+```
+</details>
+
+**[Spectral Selection in Symmetric Self-Attention Dynamics](https://arxiv.org/abs/2604.26085)** - Christian Kuehn, Jaeyoung Yoon
 
 <details>
 <summary>BibTeX</summary>
