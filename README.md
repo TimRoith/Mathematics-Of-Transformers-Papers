@@ -7,6 +7,24 @@ This list collects papers that deal with mathematical properties and models conn
 
 ## Papers ordered by year
 
+**[Training Infinitely Deep and Wide Transformers](https://arxiv.org/abs/2605.17660)** - Raphaël Barboni, Maarten V. de Hoop, Takashi Furuya, Gabriel Peyré
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@misc{barboni2026traininginfinitelydeepwide,
+      title={Training Infinitely Deep and Wide Transformers}, 
+      author={Raphaël Barboni and Maarten V. de Hoop and Takashi Furuya and Gabriel Peyré},
+      year={2026},
+      eprint={2605.17660},
+      archivePrefix={arXiv},
+      primaryClass={math.OC},
+      url={https://arxiv.org/abs/2605.17660}, 
+}
+```
+</details>
+
 **[Attention-based PCA](https://arxiv.org/abs/2605.18315)** - Rodrigo Maulen-Soto, Claire Boyer
 
 <details>
