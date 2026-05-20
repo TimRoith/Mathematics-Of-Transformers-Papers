@@ -7,6 +7,24 @@ This list collects papers that deal with mathematical properties and models conn
 
 ## Papers ordered by year
 
+**[Multi-Headed Transformer Architectures as Time-dependent Wasserstein Gradient Flows](https://arxiv.org/abs/2605.18870)** - Alex Massucco, Leonardo Del Grande, Marcello Carioni, Christoff Brune, Carola-Bibiane Schönlieb
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@misc{massucco2026multiheadedtransformerarchitecturestimedependent,
+      title={Multi-Headed Transformer Architectures as Time-dependent Wasserstein Gradient Flows}, 
+      author={Alex Massucco and Leonardo Del Grande and Marcello Carioni and Christoff Brune and Carola-Bibiane Schönlieb},
+      year={2026},
+      eprint={2605.18870},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2605.18870}, 
+}
+```
+</details>
+
 **[Training Infinitely Deep and Wide Transformers](https://arxiv.org/abs/2605.17660)** - Raphaël Barboni, Maarten V. de Hoop, Takashi Furuya, Gabriel Peyré
 
 <details>
