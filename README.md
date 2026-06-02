@@ -7,6 +7,24 @@ This list collects papers that deal with mathematical properties and models conn
 
 ## Papers ordered by year
 
+**[Anti Mode-Collapse in Mean-Field Transformer via Auxiliary Variables](https://arxiv.org/abs/2605.30229)** - Masaaki Imaizumi, Masanori Koyama, Noboru Isobe, Kohei Hayashi
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@misc{imaizumi2026antimodecollapsemeanfieldtransformer,
+      title={Anti Mode-Collapse in Mean-Field Transformer via Auxiliary Variables}, 
+      author={Masaaki Imaizumi and Masanori Koyama and Noboru Isobe and Kohei Hayashi},
+      year={2026},
+      eprint={2605.30229},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2605.30229}, 
+}
+```
+</details>
+
 **[Multi-Headed Transformer Architectures as Time-dependent Wasserstein Gradient Flows](https://arxiv.org/abs/2605.18870)** - Alex Massucco, Leonardo Del Grande, Marcello Carioni, Christoff Brune, Carola-Bibiane Schönlieb
 
 <details>
