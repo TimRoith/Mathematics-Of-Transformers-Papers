@@ -7,6 +7,24 @@ This list collects papers that deal with mathematical properties and models conn
 
 ## Papers ordered by year
 
+**[Kinetic theory for Transformers and the lost-in-the-middle phenomenon](https://arxiv.org/abs/2605.09213)** - Mitia Duerinckx, Borjan Geshkovski, Stefano Rossi
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@misc{duerinckx2026kinetictheorytransformerslostinthemiddle,
+      title={Kinetic theory for Transformers and the lost-in-the-middle phenomenon}, 
+      author={Mitia Duerinckx and Borjan Geshkovski and Stefano Rossi},
+      year={2026},
+      eprint={2605.09213},
+      archivePrefix={arXiv},
+      primaryClass={math.AP},
+      url={https://arxiv.org/abs/2605.09213}, 
+}
+```
+</details>
+
 **[Anti Mode-Collapse in Mean-Field Transformer via Auxiliary Variables](https://arxiv.org/abs/2605.30229)** - Masaaki Imaizumi, Masanori Koyama, Noboru Isobe, Kohei Hayashi
 
 <details>
