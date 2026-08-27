@@ -7,6 +7,21 @@ This list collects papers that deal with mathematical properties and models conn
 
 ## Papers ordered by year
 
+**[Random Quadratic Form with random forcing: Metastable synchronization by noise](https://arxiv.org/abs/2608.16664)** - Anna Shalova
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@article{shalova2026random,
+  title={Random Quadratic Form with random forcing: Metastable synchronization by noise},
+  author={Shalova, Anna},
+  journal={arXiv preprint arXiv:2608.16664},
+  year={2026}
+}
+```
+</details>
+
+
 **[Kinetic theory for Transformers and the lost-in-the-middle phenomenon](https://arxiv.org/abs/2605.09213)** - Mitia Duerinckx, Borjan Geshkovski, Stefano Rossi
 
 <details>
