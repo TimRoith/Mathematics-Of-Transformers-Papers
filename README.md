@@ -7,6 +7,22 @@ This list collects papers that deal with mathematical properties and models conn
 
 ## Papers ordered by year
 
+**[A Unified Framework for Critical Scaling of Inverse Temperature in Self-Attention](https://arxiv.org/abs/2605.12697)** - Tomohiro Hayase, Ryo Karakida
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@article{hayase2026unified,
+  title={A Unified Framework for Critical Scaling of Inverse Temperature in Self-Attention},
+  author={Hayase, Tomohiro and Karakida, Ryo},
+  journal={arXiv preprint arXiv:2605.12697},
+  year={2026}
+}
+```
+</details>
+
+
 **[Random Quadratic Form with random forcing: Metastable synchronization by noise](https://arxiv.org/abs/2608.16664)** - Anna Shalova
 <details>
 <summary>BibTeX</summary>
