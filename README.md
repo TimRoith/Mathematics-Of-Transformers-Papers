@@ -25,6 +25,21 @@ This list collects papers that deal with mathematical properties and models conn
 ```
 </details>
 
+**[A Geometric Theory for Nonequilibrium Transformer Dynamics](https://arxiv.org/abs/2611.10691v1)** - Aythami Bethencourt de León, Darryl D. Holm
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@article{de2026geometric,
+  title={A Geometric Theory for Nonequilibrium Transformer Dynamics},
+  author={de Le{\'o}n, Aythami Bethencourt and Holm, Darryl D},
+  journal={arXiv preprint arXiv:2611.10691},
+  year={2026}
+}
+```
+</details>
+
 
 **[A Unified Framework for Critical Scaling of Inverse Temperature in Self-Attention](https://arxiv.org/abs/2605.12697)** - Tomohiro Hayase, Ryo Karakida
 
