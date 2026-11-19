@@ -7,6 +7,25 @@ This list collects papers that deal with mathematical properties and models conn
 
 ## Papers ordered by year
 
+**[Equilibrium measures for anisotropic exponential interaction energies with applications to transformers](https://arxiv.org/abs/2611.19518)** - Oleksii Kachaiev, Martin Burger, Samira Kabri, Yury Korolev, Tim Roith
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@misc{kachaiev2026equilibriummeasuresanisotropicexponential,
+      title={Equilibrium measures for anisotropic exponential interaction energies with applications to transformers}, 
+      author={Oleksii Kachaiev and Martin Burger and Samira Kabri and Yury Korolev and Tim Roith},
+      year={2026},
+      eprint={2611.19518},
+      archivePrefix={arXiv},
+      primaryClass={math.AP},
+      url={https://arxiv.org/abs/2611.19518}, 
+}
+```
+</details>
+
+
 **[A Unified Framework for Critical Scaling of Inverse Temperature in Self-Attention](https://arxiv.org/abs/2605.12697)** - Tomohiro Hayase, Ryo Karakida
 
 <details>
